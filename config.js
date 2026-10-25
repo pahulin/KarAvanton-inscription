@@ -1,2 +1,1 @@
-// Seulement la clé publique anon. Ne jamais copier ici le secret de la régie.
-window.KARAVANTON={url:'',anon:'',code:''};
+window.KARAVANTON={"url":"https://eogrpwniekxdpdrcmkhk.supabase.co","anon":"sb_publishable_32WXivYQc4xZMRwORz9Q4Q_sBlsh6hy","code":"avanton-aa8cecc1"};
